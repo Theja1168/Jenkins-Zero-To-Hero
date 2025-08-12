@@ -58,7 +58,7 @@ A: Again, there are multiple ways to achieve this,
    
    - Hashicorp Vault: Jenkins can be integrated with Hashicorp Vault, which is a secure secrets management tool. Vault can be used to store and manage sensitive information, and Jenkins can retrieve the secrets as needed for builds.
    
-   - Third-party Secret Management Tools: Jenkins can also be integrated with third-party secret management tools such as AWS Secrets Manager, Google Cloud Key Management Service, and Azure Key Vault.
+   - Third-party Secret Management Tools: Jenkins and can also be integrated with third-party secret management tools such as AWS Secrets Manager, Google Cloud Key Management Service, and Azure Key Vault.
 ```
 
 Q: What is latest version of Jenkins or which version of Jenkins are you using ?
